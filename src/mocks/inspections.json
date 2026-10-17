@@ -1,0 +1,321 @@
+[
+ {
+  "id": "ins-001",
+  "detectionId": "det-001",
+  "areaId": "area-upper-lake",
+  "locationName": "Bairagarh shore",
+  "type": "new_construction",
+  "priority": "high",
+  "status": "assigned",
+  "assigneeId": "u-ins1",
+  "dueDate": "2026-10-14",
+  "notes": "Verify extent of change and check permits.",
+  "remarks": "",
+  "visitDate": null,
+  "photos": [],
+  "activity": [
+   {
+    "at": "2024-02-21T00:00:00.000Z",
+    "by": "u-off1",
+    "action": "created",
+    "note": "Inspection created from alert"
+   },
+   {
+    "at": "2024-02-21T01:00:00.000Z",
+    "by": "u-off1",
+    "action": "assigned",
+    "note": "Assigned to Karan Patel"
+   }
+  ]
+ },
+ {
+  "id": "ins-002",
+  "detectionId": "det-002",
+  "areaId": "area-upper-lake",
+  "locationName": "Kamla Park edge",
+  "type": "water_shrinkage",
+  "priority": "medium",
+  "status": "assigned",
+  "assigneeId": "u-ins2",
+  "dueDate": "2026-10-23",
+  "notes": "Verify extent of change and check permits.",
+  "remarks": "",
+  "visitDate": null,
+  "photos": [],
+  "activity": [
+   {
+    "at": "2022-11-08T00:00:00.000Z",
+    "by": "u-off1",
+    "action": "created",
+    "note": "Inspection created from alert"
+   },
+   {
+    "at": "2022-11-08T01:00:00.000Z",
+    "by": "u-off1",
+    "action": "assigned",
+    "note": "Assigned to Sunita Rawat"
+   }
+  ]
+ },
+ {
+  "id": "ins-003",
+  "detectionId": "det-003",
+  "areaId": "area-upper-lake",
+  "locationName": "Van Vihar road",
+  "type": "new_construction",
+  "priority": "critical",
+  "status": "assigned",
+  "assigneeId": "u-ins3",
+  "dueDate": "2026-10-24",
+  "notes": "Verify extent of change and check permits.",
+  "remarks": "",
+  "visitDate": null,
+  "photos": [],
+  "activity": [
+   {
+    "at": "2022-11-08T00:00:00.000Z",
+    "by": "u-off1",
+    "action": "created",
+    "note": "Inspection created from alert"
+   },
+   {
+    "at": "2022-11-08T01:00:00.000Z",
+    "by": "u-off1",
+    "action": "assigned",
+    "note": "Assigned to Deepak Yadav"
+   }
+  ]
+ },
+ {
+  "id": "ins-004",
+  "detectionId": "det-004",
+  "areaId": "area-upper-lake",
+  "locationName": "Boat Club ridge",
+  "type": "water_shrinkage",
+  "priority": "high",
+  "status": "visited",
+  "assigneeId": "u-ins1",
+  "dueDate": "2026-10-14",
+  "notes": "Verify extent of change and check permits.",
+  "remarks": "",
+  "visitDate": "2025-02-06",
+  "photos": [
+   "https://placehold.co/400x300?text=det-004"
+  ],
+  "activity": [
+   {
+    "at": "2025-02-05T00:00:00.000Z",
+    "by": "u-off1",
+    "action": "created",
+    "note": "Inspection created from alert"
+   },
+   {
+    "at": "2025-02-05T01:00:00.000Z",
+    "by": "u-off1",
+    "action": "assigned",
+    "note": "Assigned to Karan Patel"
+   },
+   {
+    "at": "2025-02-06T00:00:00.000Z",
+    "by": "u-ins1",
+    "action": "visited",
+    "note": "Site visited"
+   }
+  ]
+ },
+ {
+  "id": "ins-005",
+  "detectionId": "det-005",
+  "areaId": "area-upper-lake",
+  "locationName": "Lalghati bund",
+  "type": "new_construction",
+  "priority": "medium",
+  "status": "visited",
+  "assigneeId": "u-ins2",
+  "dueDate": "2026-10-26",
+  "notes": "Verify extent of change and check permits.",
+  "remarks": "",
+  "visitDate": "2024-02-22",
+  "photos": [
+   "https://placehold.co/400x300?text=det-005"
+  ],
+  "activity": [
+   {
+    "at": "2024-02-21T00:00:00.000Z",
+    "by": "u-off1",
+    "action": "created",
+    "note": "Inspection created from alert"
+   },
+   {
+    "at": "2024-02-21T01:00:00.000Z",
+    "by": "u-off1",
+    "action": "assigned",
+    "note": "Assigned to Sunita Rawat"
+   },
+   {
+    "at": "2024-02-22T00:00:00.000Z",
+    "by": "u-ins2",
+    "action": "visited",
+    "note": "Site visited"
+   }
+  ]
+ },
+ {
+  "id": "ins-006",
+  "detectionId": "det-006",
+  "areaId": "area-upper-lake",
+  "locationName": "Bhoj Wetland east",
+  "type": "water_shrinkage",
+  "priority": "critical",
+  "status": "confirmed",
+  "assigneeId": "u-ins3",
+  "dueDate": "2026-10-27",
+  "notes": "Verify extent of change and check permits.",
+  "remarks": "Unauthorised structure found; notice issued.",
+  "visitDate": "2023-10-24",
+  "photos": [
+   "https://placehold.co/400x300?text=det-006"
+  ],
+  "activity": [
+   {
+    "at": "2023-10-23T00:00:00.000Z",
+    "by": "u-off1",
+    "action": "created",
+    "note": "Inspection created from alert"
+   },
+   {
+    "at": "2023-10-23T01:00:00.000Z",
+    "by": "u-off1",
+    "action": "assigned",
+    "note": "Assigned to Deepak Yadav"
+   },
+   {
+    "at": "2023-10-24T00:00:00.000Z",
+    "by": "u-ins3",
+    "action": "visited",
+    "note": "Site visited"
+   },
+   {
+    "at": "2023-10-25T00:00:00.000Z",
+    "by": "u-ins3",
+    "action": "resolved",
+    "note": "confirmed"
+   }
+  ]
+ },
+ {
+  "id": "ins-007",
+  "detectionId": "det-007",
+  "areaId": "area-upper-lake",
+  "locationName": "Bairagarh shore",
+  "type": "new_construction",
+  "priority": "high",
+  "status": "confirmed",
+  "assigneeId": "u-ins1",
+  "dueDate": "2026-10-14",
+  "notes": "Verify extent of change and check permits.",
+  "remarks": "Unauthorised structure found; notice issued.",
+  "visitDate": "2022-11-09",
+  "photos": [
+   "https://placehold.co/400x300?text=det-007"
+  ],
+  "activity": [
+   {
+    "at": "2022-11-08T00:00:00.000Z",
+    "by": "u-off1",
+    "action": "created",
+    "note": "Inspection created from alert"
+   },
+   {
+    "at": "2022-11-08T01:00:00.000Z",
+    "by": "u-off1",
+    "action": "assigned",
+    "note": "Assigned to Karan Patel"
+   },
+   {
+    "at": "2022-11-09T00:00:00.000Z",
+    "by": "u-ins1",
+    "action": "visited",
+    "note": "Site visited"
+   },
+   {
+    "at": "2022-11-10T00:00:00.000Z",
+    "by": "u-ins1",
+    "action": "resolved",
+    "note": "confirmed"
+   }
+  ]
+ },
+ {
+  "id": "ins-008",
+  "detectionId": "det-009",
+  "areaId": "area-upper-lake",
+  "locationName": "Van Vihar road",
+  "type": "new_construction",
+  "priority": "medium",
+  "status": "false_alarm",
+  "assigneeId": "u-ins2",
+  "dueDate": "2026-10-29",
+  "notes": "Verify extent of change and check permits.",
+  "remarks": "Seasonal water line, no construction.",
+  "visitDate": "2023-10-24",
+  "photos": [
+   "https://placehold.co/400x300?text=det-009"
+  ],
+  "activity": [
+   {
+    "at": "2023-10-23T00:00:00.000Z",
+    "by": "u-off1",
+    "action": "created",
+    "note": "Inspection created from alert"
+   },
+   {
+    "at": "2023-10-23T01:00:00.000Z",
+    "by": "u-off1",
+    "action": "assigned",
+    "note": "Assigned to Sunita Rawat"
+   },
+   {
+    "at": "2023-10-24T00:00:00.000Z",
+    "by": "u-ins2",
+    "action": "visited",
+    "note": "Site visited"
+   },
+   {
+    "at": "2023-10-25T00:00:00.000Z",
+    "by": "u-ins2",
+    "action": "resolved",
+    "note": "false_alarm"
+   }
+  ]
+ },
+ {
+  "id": "ins-009",
+  "detectionId": "det-010",
+  "areaId": "area-kerwa",
+  "locationName": "Kerwa gate 2",
+  "type": "vegetation_loss",
+  "priority": "critical",
+  "status": "assigned",
+  "assigneeId": "u-ins3",
+  "dueDate": "2026-10-30",
+  "notes": "Verify extent of change and check permits.",
+  "remarks": "",
+  "visitDate": null,
+  "photos": [],
+  "activity": [
+   {
+    "at": "2023-04-05T00:00:00.000Z",
+    "by": "u-off1",
+    "action": "created",
+    "note": "Inspection created from alert"
+   },
+   {
+    "at": "2023-04-05T01:00:00.000Z",
+    "by": "u-off1",
+    "action": "assigned",
+    "note": "Assigned to Deepak Yadav"
+   }
+  ]
+ }
+]

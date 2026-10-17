@@ -1,0 +1,195 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "zone-1",
+    "name": "Upper Lake Full Tank Level",
+    "type": "lake",
+    "areaKm2": 12.23,
+    "createdBy": "u-admin",
+    "createdAt": "2024-01-15T09:00:00Z"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.345,
+       23.235
+      ],
+      [
+       77.385,
+       23.235
+      ],
+      [
+       77.385,
+       23.262
+      ],
+      [
+       77.345,
+       23.262
+      ],
+      [
+       77.345,
+       23.235
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "zone-2",
+    "name": "Kerwa Reserve Forest",
+    "type": "forest",
+    "areaKm2": 9.51,
+    "createdBy": "u-admin",
+    "createdAt": "2024-01-15T09:00:00Z"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.342,
+       23.162
+      ],
+      [
+       77.372,
+       23.162
+      ],
+      [
+       77.372,
+       23.19
+      ],
+      [
+       77.342,
+       23.19
+      ],
+      [
+       77.342,
+       23.162
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "zone-3",
+    "name": "Betwa Bank Buffer",
+    "type": "river_bank",
+    "areaKm2": 9.06,
+    "createdBy": "u-admin",
+    "createdAt": "2024-01-15T09:00:00Z"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.79,
+       23.51
+      ],
+      [
+       77.83,
+       23.51
+      ],
+      [
+       77.83,
+       23.53
+      ],
+      [
+       77.79,
+       23.53
+      ],
+      [
+       77.79,
+       23.51
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "zone-4",
+    "name": "Shyamla Hills Reserved Land",
+    "type": "reserved_land",
+    "areaKm2": 1.91,
+    "createdBy": "u-admin",
+    "createdAt": "2024-01-15T09:00:00Z"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.385,
+       23.255
+      ],
+      [
+       77.398,
+       23.255
+      ],
+      [
+       77.398,
+       23.268
+      ],
+      [
+       77.385,
+       23.268
+      ],
+      [
+       77.385,
+       23.255
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "id": "zone-5",
+    "name": "Kerwa Catchment Strip",
+    "type": "river_bank",
+    "areaKm2": 2.26,
+    "createdBy": "u-admin",
+    "createdAt": "2024-01-15T09:00:00Z"
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.35,
+       23.19
+      ],
+      [
+       77.375,
+       23.19
+      ],
+      [
+       77.375,
+       23.198
+      ],
+      [
+       77.35,
+       23.198
+      ],
+      [
+       77.35,
+       23.19
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,175 @@
+{
+ "area-upper-lake": [
+  {
+   "date": "2022-03-10",
+   "newAreaSqm": 0,
+   "cumulativeAreaSqm": 0,
+   "detectionIds": []
+  },
+  {
+   "date": "2022-11-05",
+   "newAreaSqm": 57217,
+   "cumulativeAreaSqm": 57217,
+   "detectionIds": [
+    "det-002",
+    "det-003",
+    "det-007"
+   ]
+  },
+  {
+   "date": "2023-03-12",
+   "newAreaSqm": 0,
+   "cumulativeAreaSqm": 57217,
+   "detectionIds": []
+  },
+  {
+   "date": "2023-10-20",
+   "newAreaSqm": 47430,
+   "cumulativeAreaSqm": 104647,
+   "detectionIds": [
+    "det-006",
+    "det-009"
+   ]
+  },
+  {
+   "date": "2024-02-18",
+   "newAreaSqm": 61261,
+   "cumulativeAreaSqm": 165908,
+   "detectionIds": [
+    "det-001",
+    "det-005",
+    "det-008"
+   ]
+  },
+  {
+   "date": "2024-09-14",
+   "newAreaSqm": 0,
+   "cumulativeAreaSqm": 165908,
+   "detectionIds": []
+  },
+  {
+   "date": "2025-02-02",
+   "newAreaSqm": 4587,
+   "cumulativeAreaSqm": 170495,
+   "detectionIds": [
+    "det-004"
+   ]
+  }
+ ],
+ "area-kerwa": [
+  {
+   "date": "2022-02-21",
+   "newAreaSqm": 0,
+   "cumulativeAreaSqm": 0,
+   "detectionIds": []
+  },
+  {
+   "date": "2022-10-14",
+   "newAreaSqm": 0,
+   "cumulativeAreaSqm": 0,
+   "detectionIds": []
+  },
+  {
+   "date": "2023-04-02",
+   "newAreaSqm": 78830,
+   "cumulativeAreaSqm": 78830,
+   "detectionIds": [
+    "det-010",
+    "det-013",
+    "det-016"
+   ]
+  },
+  {
+   "date": "2023-11-18",
+   "newAreaSqm": 68563,
+   "cumulativeAreaSqm": 147393,
+   "detectionIds": [
+    "det-011",
+    "det-017"
+   ]
+  },
+  {
+   "date": "2024-03-09",
+   "newAreaSqm": 82306,
+   "cumulativeAreaSqm": 229699,
+   "detectionIds": [
+    "det-012",
+    "det-014",
+    "det-015"
+   ]
+  },
+  {
+   "date": "2024-12-01",
+   "newAreaSqm": 34426,
+   "cumulativeAreaSqm": 264125,
+   "detectionIds": [
+    "det-018"
+   ]
+  },
+  {
+   "date": "2025-03-15",
+   "newAreaSqm": 0,
+   "cumulativeAreaSqm": 264125,
+   "detectionIds": []
+  }
+ ],
+ "area-betwa": [
+  {
+   "date": "2022-04-01",
+   "newAreaSqm": 0,
+   "cumulativeAreaSqm": 0,
+   "detectionIds": []
+  },
+  {
+   "date": "2022-12-09",
+   "newAreaSqm": 33793,
+   "cumulativeAreaSqm": 33793,
+   "detectionIds": [
+    "det-019",
+    "det-024",
+    "det-028"
+   ]
+  },
+  {
+   "date": "2023-05-17",
+   "newAreaSqm": 11322,
+   "cumulativeAreaSqm": 45115,
+   "detectionIds": [
+    "det-022",
+    "det-026"
+   ]
+  },
+  {
+   "date": "2023-12-22",
+   "newAreaSqm": 17921,
+   "cumulativeAreaSqm": 63036,
+   "detectionIds": [
+    "det-020"
+   ]
+  },
+  {
+   "date": "2024-04-28",
+   "newAreaSqm": 2317,
+   "cumulativeAreaSqm": 65353,
+   "detectionIds": [
+    "det-025"
+   ]
+  },
+  {
+   "date": "2024-11-06",
+   "newAreaSqm": 22418,
+   "cumulativeAreaSqm": 87771,
+   "detectionIds": [
+    "det-021",
+    "det-023",
+    "det-027"
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "newAreaSqm": 0,
+   "cumulativeAreaSqm": 87771,
+   "detectionIds": []
+  }
+ ]
+}

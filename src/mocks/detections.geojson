@@ -1,0 +1,1605 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.379513,
+       23.261279
+      ],
+      [
+       77.379051,
+       23.262111
+      ],
+      [
+       77.378288,
+       23.261637
+      ],
+      [
+       77.378153,
+       23.260795
+      ],
+      [
+       77.379011,
+       23.260721
+      ],
+      [
+       77.379513,
+       23.261279
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-001",
+    "areaId": "area-upper-lake",
+    "locationName": "Bairagarh shore",
+    "type": "new_construction",
+    "areaSqm": 21739,
+    "confidence": 87,
+    "beforeDate": "2023-10-20",
+    "afterDate": "2024-02-18",
+    "severity": "critical",
+    "status": "under_inspection",
+    "flaggedAs": null,
+    "inProtectedZone": true,
+    "zoneId": "zone-1",
+    "zoneName": "Upper Lake Full Tank Level",
+    "centroid": [
+     77.378826,
+     23.261279
+    ],
+    "detectedAt": "2024-02-20T00:00:00.000Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.34726,
+       23.260795
+      ],
+      [
+       77.346852,
+       23.261268
+      ],
+      [
+       77.345876,
+       23.261161
+      ],
+      [
+       77.346181,
+       23.260505
+      ],
+      [
+       77.346972,
+       23.260216
+      ],
+      [
+       77.34726,
+       23.260795
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-002",
+    "areaId": "area-upper-lake",
+    "locationName": "Kamla Park edge",
+    "type": "water_shrinkage",
+    "areaSqm": 22809,
+    "confidence": 75,
+    "beforeDate": "2022-03-10",
+    "afterDate": "2022-11-05",
+    "severity": "critical",
+    "status": "new",
+    "flaggedAs": null,
+    "inProtectedZone": true,
+    "zoneId": "zone-1",
+    "zoneName": "Upper Lake Full Tank Level",
+    "centroid": [
+     77.346663,
+     23.260795
+    ],
+    "detectedAt": "2022-11-07T00:00:00.000Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.375306,
+       23.251811
+      ],
+      [
+       77.375099,
+       23.252083
+      ],
+      [
+       77.374781,
+       23.251959
+      ],
+      [
+       77.374861,
+       23.251683
+      ],
+      [
+       77.375099,
+       23.251634
+      ],
+      [
+       77.375306,
+       23.251811
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-003",
+    "areaId": "area-upper-lake",
+    "locationName": "Van Vihar road",
+    "type": "new_construction",
+    "areaSqm": 2846,
+    "confidence": 54,
+    "beforeDate": "2022-03-10",
+    "afterDate": "2022-11-05",
+    "severity": "high",
+    "status": "false_alarm",
+    "flaggedAs": "seasonal",
+    "inProtectedZone": true,
+    "zoneId": "zone-1",
+    "zoneName": "Upper Lake Full Tank Level",
+    "centroid": [
+     77.37503,
+     23.251811
+    ],
+    "detectedAt": "2022-11-07T00:00:00.000Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.366746,
+       23.2642
+      ],
+      [
+       77.366511,
+       23.264413
+      ],
+      [
+       77.366085,
+       23.264353
+      ],
+      [
+       77.366,
+       23.264092
+      ],
+      [
+       77.366565,
+       23.263905
+      ],
+      [
+       77.366746,
+       23.2642
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-004",
+    "areaId": "area-upper-lake",
+    "locationName": "Boat Club ridge",
+    "type": "water_shrinkage",
+    "areaSqm": 4587,
+    "confidence": 88,
+    "beforeDate": "2024-09-14",
+    "afterDate": "2025-02-02",
+    "severity": "medium",
+    "status": "new",
+    "flaggedAs": null,
+    "inProtectedZone": false,
+    "zoneId": null,
+    "zoneName": null,
+    "centroid": [
+     77.366419,
+     23.2642
+    ],
+    "detectedAt": "2025-02-04T00:00:00.000Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.397125,
+       23.237859
+      ],
+      [
+       77.396123,
+       23.238558
+      ],
+      [
+       77.394847,
+       23.238287
+      ],
+      [
+       77.394777,
+       23.237439
+      ],
+      [
+       77.396097,
+       23.236924
+      ],
+      [
+       77.397125,
+       23.237859
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-005",
+    "areaId": "area-upper-lake",
+    "locationName": "Lalghati bund",
+    "type": "new_construction",
+    "areaSqm": 39522,
+    "confidence": 97,
+    "beforeDate": "2023-10-20",
+    "afterDate": "2024-02-18",
+    "severity": "high",
+    "status": "resolved",
+    "flaggedAs": null,
+    "inProtectedZone": false,
+    "zoneId": null,
+    "zoneName": null,
+    "centroid": [
+     77.395773,
+     23.237859
+    ],
+    "detectedAt": "2024-02-20T00:00:00.000Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.350068,
+       23.24347
+      ],
+      [
+       77.349602,
+       23.243926
+      ],
+      [
+       77.348507,
+       23.243915
+      ],
+      [
+       77.348662,
+       23.242991
+      ],
+      [
+       77.349477,
+       23.24279
+      ],
+      [
+       77.350068,
+       23.24347
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-006",
+    "areaId": "area-upper-lake",
+    "locationName": "Bhoj Wetland east",
+    "type": "water_shrinkage",
+    "areaSqm": 26352,
+    "confidence": 72,
+    "beforeDate": "2023-03-12",
+    "afterDate": "2023-10-20",
+    "severity": "critical",
+    "status": "new",
+    "flaggedAs": null,
+    "inProtectedZone": true,
+    "zoneId": "zone-1",
+    "zoneName": "Upper Lake Full Tank Level",
+    "centroid": [
+     77.349246,
+     23.24347
+    ],
+    "detectedAt": "2023-10-22T00:00:00.000Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.355982,
+       23.24475
+      ],
+      [
+       77.355121,
+       23.245383
+      ],
+      [
+       77.354138,
+       23.245259
+      ],
+      [
+       77.354023,
+       23.244455
+      ],
+      [
+       77.355111,
+       23.244018
+      ],
+      [
+       77.355982,
+       23.24475
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-007",
+    "areaId": "area-upper-lake",
+    "locationName": "Bairagarh shore",
+    "type": "new_construction",
+    "areaSqm": 31562,
+    "confidence": 94,
+    "beforeDate": "2022-03-10",
+    "afterDate": "2022-11-05",
+    "severity": "critical",
+    "status": "new",
+    "flaggedAs": null,
+    "inProtectedZone": true,
+    "zoneId": "zone-1",
+    "zoneName": "Upper Lake Full Tank Level",
+    "centroid": [
+     77.354762,
+     23.24475
+    ],
+    "detectedAt": "2022-11-07T00:00:00.000Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.34746,
+       23.239889
+      ],
+      [
+       77.346704,
+       23.240403
+      ],
+      [
+       77.345957,
+       23.240182
+      ],
+      [
+       77.345545,
+       23.239521
+      ],
+      [
+       77.346821,
+       23.239433
+      ],
+      [
+       77.34746,
+       23.239889
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-008",
+    "areaId": "area-upper-lake",
+    "locationName": "Kamla Park edge",
+    "type": "water_shrinkage",
+    "areaSqm": 23688,
+    "confidence": 55,
+    "beforeDate": "2023-10-20",
+    "afterDate": "2024-02-18",
+    "severity": "critical",
+    "status": "new",
+    "flaggedAs": "seasonal",
+    "inProtectedZone": true,
+    "zoneId": "zone-1",
+    "zoneName": "Upper Lake Full Tank Level",
+    "centroid": [
+     77.346469,
+     23.239889
+    ],
+    "detectedAt": "2024-02-20T00:00:00.000Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.380347,
+       23.247387
+      ],
+      [
+       77.379884,
+       23.24799
+      ],
+      [
+       77.379041,
+       23.247771
+      ],
+      [
+       77.379048,
+       23.247073
+      ],
+      [
+       77.379884,
+       23.246856
+      ],
+      [
+       77.380347,
+       23.247387
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-009",
+    "areaId": "area-upper-lake",
+    "locationName": "Van Vihar road",
+    "type": "new_construction",
+    "areaSqm": 21078,
+    "confidence": 86,
+    "beforeDate": "2023-03-12",
+    "afterDate": "2023-10-20",
+    "severity": "critical",
+    "status": "new",
+    "flaggedAs": null,
+    "inProtectedZone": true,
+    "zoneId": "zone-1",
+    "zoneName": "Upper Lake Full Tank Level",
+    "centroid": [
+     77.379679,
+     23.247387
+    ],
+    "detectedAt": "2023-10-22T00:00:00.000Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.348649,
+       23.174055
+      ],
+      [
+       77.348521,
+       23.174637
+      ],
+      [
+       77.347997,
+       23.174993
+      ],
+      [
+       77.347204,
+       23.174753
+      ],
+      [
+       77.347131,
+       23.174055
+      ],
+      [
+       77.347222,
+       23.173458
+      ],
+      [
+       77.347997,
+       23.173027
+      ],
+      [
+       77.348614,
+       23.173592
+      ],
+      [
+       77.348649,
+       23.174055
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-010",
+    "areaId": "area-kerwa",
+    "locationName": "Kerwa gate 2",
+    "type": "vegetation_loss",
+    "areaSqm": 33481,
+    "confidence": 91,
+    "beforeDate": "2022-10-14",
+    "afterDate": "2023-04-02",
+    "severity": "critical",
+    "status": "new",
+    "flaggedAs": null,
+    "inProtectedZone": true,
+    "zoneId": "zone-2",
+    "zoneName": "Kerwa Reserve Forest",
+    "centroid": [
+     77.347997,
+     23.174055
+    ],
+    "detectedAt": "2023-04-04T00:00:00.000Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.360922,
+       23.195504
+      ],
+      [
+       77.359965,
+       23.195929
+      ],
+      [
+       77.359111,
+       23.195859
+      ],
+      [
+       77.35887,
+       23.195094
+      ],
+      [
+       77.360135,
+       23.194822
+      ],
+      [
+       77.360922,
+       23.195504
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-011",
+    "areaId": "area-kerwa",
+    "locationName": "Chandanpura slope",
+    "type": "new_construction",
+    "areaSqm": 26374,
+    "confidence": 49,
+    "beforeDate": "2023-04-02",
+    "afterDate": "2023-11-18",
+    "severity": "critical",
+    "status": "false_alarm",
+    "flaggedAs": "misalignment",
+    "inProtectedZone": true,
+    "zoneId": "zone-5",
+    "zoneName": "Kerwa Catchment Strip",
+    "centroid": [
+     77.359744,
+     23.195504
+    ],
+    "detectedAt": "2023-11-20T00:00:00.000Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.372784,
+       23.178301
+      ],
+      [
+       77.372673,
+       23.178627
+      ],
+      [
+       77.372108,
+       23.178708
+      ],
+      [
+       77.371625,
+       23.17856
+      ],
+      [
+       77.37155,
+       23.178301
+      ],
+      [
+       77.371512,
+       23.177838
+      ],
+      [
+       77.372108,
+       23.177797
+      ],
+      [
+       77.372699,
+       23.178015
+      ],
+      [
+       77.372784,
+       23.178301
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-012",
+    "areaId": "area-kerwa",
+    "locationName": "Kolar ridge",
+    "type": "vegetation_loss",
+    "areaSqm": 17112,
+    "confidence": 69,
+    "beforeDate": "2023-11-18",
+    "afterDate": "2024-03-09",
+    "severity": "medium",
+    "status": "new",
+    "flaggedAs": null,
+    "inProtectedZone": false,
+    "zoneId": null,
+    "zoneName": null,
+    "centroid": [
+     77.372108,
+     23.178301
+    ],
+    "detectedAt": "2024-03-11T00:00:00.000Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.367933,
+       23.1822
+      ],
+      [
+       77.367217,
+       23.182733
+      ],
+      [
+       77.36625,
+       23.18252
+      ],
+      [
+       77.366244,
+       23.18189
+      ],
+      [
+       77.367163,
+       23.181734
+      ],
+      [
+       77.367933,
+       23.1822
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-013",
+    "areaId": "area-kerwa",
+    "locationName": "Mendora clearing",
+    "type": "new_construction",
+    "areaSqm": 21391,
+    "confidence": 54,
+    "beforeDate": "2022-10-14",
+    "afterDate": "2023-04-02",
+    "severity": "critical",
+    "status": "new",
+    "flaggedAs": "cloud",
+    "inProtectedZone": true,
+    "zoneId": "zone-2",
+    "zoneName": "Kerwa Reserve Forest",
+    "centroid": [
+     77.366924,
+     23.1822
+    ],
+    "detectedAt": "2023-04-04T00:00:00.000Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.358503,
+       23.184716
+      ],
+      [
+       77.358644,
+       23.18514
+      ],
+      [
+       77.35799,
+       23.185491
+      ],
+      [
+       77.357473,
+       23.18515
+      ],
+      [
+       77.357118,
+       23.184716
+      ],
+      [
+       77.357513,
+       23.184237
+      ],
+      [
+       77.35799,
+       23.183876
+      ],
+      [
+       77.358381,
+       23.183984
+      ],
+      [
+       77.358503,
+       23.184716
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-014",
+    "areaId": "area-kerwa",
+    "locationName": "Samarda block",
+    "type": "vegetation_loss",
+    "areaSqm": 26483,
+    "confidence": 86,
+    "beforeDate": "2023-11-18",
+    "afterDate": "2024-03-09",
+    "severity": "critical",
+    "status": "resolved",
+    "flaggedAs": null,
+    "inProtectedZone": true,
+    "zoneId": "zone-2",
+    "zoneName": "Kerwa Reserve Forest",
+    "centroid": [
+     77.35799,
+     23.184716
+    ],
+    "detectedAt": "2024-03-11T00:00:00.000Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.350307,
+       23.180866
+      ],
+      [
+       77.349885,
+       23.181925
+      ],
+      [
+       77.348897,
+       23.181481
+      ],
+      [
+       77.348768,
+       23.180442
+      ],
+      [
+       77.349907,
+       23.179999
+      ],
+      [
+       77.350307,
+       23.180866
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-015",
+    "areaId": "area-kerwa",
+    "locationName": "Kerwa gate 2",
+    "type": "new_construction",
+    "areaSqm": 38711,
+    "confidence": 92,
+    "beforeDate": "2023-11-18",
+    "afterDate": "2024-03-09",
+    "severity": "critical",
+    "status": "under_inspection",
+    "flaggedAs": null,
+    "inProtectedZone": true,
+    "zoneId": "zone-2",
+    "zoneName": "Kerwa Reserve Forest",
+    "centroid": [
+     77.349659,
+     23.180866
+    ],
+    "detectedAt": "2024-03-11T00:00:00.000Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.353906,
+       23.194467
+      ],
+      [
+       77.353415,
+       23.195121
+      ],
+      [
+       77.35252,
+       23.195255
+      ],
+      [
+       77.351717,
+       23.195189
+      ],
+      [
+       77.351346,
+       23.194467
+      ],
+      [
+       77.351688,
+       23.193822
+      ],
+      [
+       77.35252,
+       23.193321
+      ],
+      [
+       77.353455,
+       23.193911
+      ],
+      [
+       77.353906,
+       23.194467
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-016",
+    "areaId": "area-kerwa",
+    "locationName": "Chandanpura slope",
+    "type": "vegetation_loss",
+    "areaSqm": 45349,
+    "confidence": 86,
+    "beforeDate": "2022-10-14",
+    "afterDate": "2023-04-02",
+    "severity": "critical",
+    "status": "resolved",
+    "flaggedAs": null,
+    "inProtectedZone": true,
+    "zoneId": "zone-5",
+    "zoneName": "Kerwa Catchment Strip",
+    "centroid": [
+     77.35252,
+     23.194467
+    ],
+    "detectedAt": "2023-04-04T00:00:00.000Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.373108,
+       23.174143
+      ],
+      [
+       77.372547,
+       23.175053
+      ],
+      [
+       77.371115,
+       23.174728
+      ],
+      [
+       77.371482,
+       23.173685
+      ],
+      [
+       77.372572,
+       23.1733
+      ],
+      [
+       77.373108,
+       23.174143
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-017",
+    "areaId": "area-kerwa",
+    "locationName": "Kolar ridge",
+    "type": "new_construction",
+    "areaSqm": 42189,
+    "confidence": 85,
+    "beforeDate": "2023-04-02",
+    "afterDate": "2023-11-18",
+    "severity": "high",
+    "status": "resolved",
+    "flaggedAs": null,
+    "inProtectedZone": false,
+    "zoneId": null,
+    "zoneName": null,
+    "centroid": [
+     77.372156,
+     23.174143
+    ],
+    "detectedAt": "2023-11-20T00:00:00.000Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.372256,
+       23.169948
+      ],
+      [
+       77.37169,
+       23.170429
+      ],
+      [
+       77.371095,
+       23.1707
+      ],
+      [
+       77.370334,
+       23.170413
+      ],
+      [
+       77.369886,
+       23.169949
+      ],
+      [
+       77.370287,
+       23.1696
+      ],
+      [
+       77.371095,
+       23.169433
+      ],
+      [
+       77.371713,
+       23.169504
+      ],
+      [
+       77.372256,
+       23.169948
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-018",
+    "areaId": "area-kerwa",
+    "locationName": "Mendora clearing",
+    "type": "vegetation_loss",
+    "areaSqm": 34426,
+    "confidence": 92,
+    "beforeDate": "2024-03-09",
+    "afterDate": "2024-12-01",
+    "severity": "critical",
+    "status": "under_inspection",
+    "flaggedAs": null,
+    "inProtectedZone": true,
+    "zoneId": "zone-2",
+    "zoneName": "Kerwa Reserve Forest",
+    "centroid": [
+     77.371095,
+     23.169948
+    ],
+    "detectedAt": "2024-12-03T00:00:00.000Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.82082,
+       23.512649
+      ],
+      [
+       77.820534,
+       23.512753
+      ],
+      [
+       77.820148,
+       23.512688
+      ],
+      [
+       77.820101,
+       23.512605
+      ],
+      [
+       77.820507,
+       23.512575
+      ],
+      [
+       77.82082,
+       23.512649
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-019",
+    "areaId": "area-betwa",
+    "locationName": "Betwa ghat 4",
+    "type": "sand_mining",
+    "areaSqm": 1371,
+    "confidence": 88,
+    "beforeDate": "2022-04-01",
+    "afterDate": "2022-12-09",
+    "severity": "high",
+    "status": "under_inspection",
+    "flaggedAs": null,
+    "inProtectedZone": true,
+    "zoneId": "zone-3",
+    "zoneName": "Betwa Bank Buffer",
+    "centroid": [
+     77.820401,
+     23.512649
+    ],
+    "detectedAt": "2022-12-11T00:00:00.000Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.826397,
+       23.507491
+      ],
+      [
+       77.824976,
+       23.507688
+      ],
+      [
+       77.823645,
+       23.507634
+      ],
+      [
+       77.82372,
+       23.507271
+      ],
+      [
+       77.82511,
+       23.50716
+      ],
+      [
+       77.826397,
+       23.507491
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-020",
+    "areaId": "area-betwa",
+    "locationName": "Sironj bend",
+    "type": "sand_mining",
+    "areaSqm": 17921,
+    "confidence": 86,
+    "beforeDate": "2023-05-17",
+    "afterDate": "2023-12-22",
+    "severity": "medium",
+    "status": "new",
+    "flaggedAs": null,
+    "inProtectedZone": false,
+    "zoneId": null,
+    "zoneName": null,
+    "centroid": [
+     77.824661,
+     23.507491
+    ],
+    "detectedAt": "2023-12-24T00:00:00.000Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.796278,
+       23.516028
+      ],
+      [
+       77.795011,
+       23.51639
+      ],
+      [
+       77.793357,
+       23.516263
+      ],
+      [
+       77.793069,
+       23.515837
+      ],
+      [
+       77.795276,
+       23.515778
+      ],
+      [
+       77.796278,
+       23.516028
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-021",
+    "areaId": "area-betwa",
+    "locationName": "Vidisha sandbar",
+    "type": "sand_mining",
+    "areaSqm": 24039,
+    "confidence": 54,
+    "beforeDate": "2024-04-28",
+    "afterDate": "2024-11-06",
+    "severity": "critical",
+    "status": "false_alarm",
+    "flaggedAs": "misalignment",
+    "inProtectedZone": true,
+    "zoneId": "zone-3",
+    "zoneName": "Betwa Bank Buffer",
+    "centroid": [
+     77.794631,
+     23.516028
+    ],
+    "detectedAt": "2024-11-08T00:00:00.000Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.792685,
+       23.511722
+      ],
+      [
+       77.791419,
+       23.512115
+      ],
+      [
+       77.789735,
+       23.511944
+      ],
+      [
+       77.790094,
+       23.511474
+      ],
+      [
+       77.791528,
+       23.511448
+      ],
+      [
+       77.792685,
+       23.511722
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-022",
+    "areaId": "area-betwa",
+    "locationName": "Kurwai bank",
+    "type": "sand_mining",
+    "areaSqm": 23197,
+    "confidence": 51,
+    "beforeDate": "2022-12-09",
+    "afterDate": "2023-05-17",
+    "severity": "critical",
+    "status": "false_alarm",
+    "flaggedAs": "cloud",
+    "inProtectedZone": true,
+    "zoneId": "zone-3",
+    "zoneName": "Betwa Bank Buffer",
+    "centroid": [
+     77.79102,
+     23.511722
+    ],
+    "detectedAt": "2023-05-19T00:00:00.000Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.808575,
+       23.531609
+      ],
+      [
+       77.807904,
+       23.531859
+      ],
+      [
+       77.807213,
+       23.531709
+      ],
+      [
+       77.806858,
+       23.531503
+      ],
+      [
+       77.807946,
+       23.531401
+      ],
+      [
+       77.808575,
+       23.531609
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-023",
+    "areaId": "area-betwa",
+    "locationName": "Udaipur crossing",
+    "type": "sand_mining",
+    "areaSqm": 7831,
+    "confidence": 81,
+    "beforeDate": "2024-04-28",
+    "afterDate": "2024-11-06",
+    "severity": "medium",
+    "status": "under_inspection",
+    "flaggedAs": null,
+    "inProtectedZone": false,
+    "zoneId": null,
+    "zoneName": null,
+    "centroid": [
+     77.807702,
+     23.531609
+    ],
+    "detectedAt": "2024-11-08T00:00:00.000Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.803593,
+       23.530536
+      ],
+      [
+       77.802477,
+       23.53093
+      ],
+      [
+       77.800928,
+       23.530781
+      ],
+      [
+       77.801093,
+       23.530236
+      ],
+      [
+       77.802452,
+       23.530155
+      ],
+      [
+       77.803593,
+       23.530536
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-024",
+    "areaId": "area-betwa",
+    "locationName": "Ganj Basoda reach",
+    "type": "sand_mining",
+    "areaSqm": 29380,
+    "confidence": 81,
+    "beforeDate": "2022-04-01",
+    "afterDate": "2022-12-09",
+    "severity": "high",
+    "status": "new",
+    "flaggedAs": null,
+    "inProtectedZone": false,
+    "zoneId": null,
+    "zoneName": null,
+    "centroid": [
+     77.802008,
+     23.530536
+    ],
+    "detectedAt": "2022-12-11T00:00:00.000Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.824273,
+       23.532837
+      ],
+      [
+       77.823847,
+       23.532939
+      ],
+      [
+       77.823289,
+       23.532898
+      ],
+      [
+       77.823291,
+       23.532777
+      ],
+      [
+       77.823846,
+       23.532766
+      ],
+      [
+       77.824273,
+       23.532837
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-025",
+    "areaId": "area-betwa",
+    "locationName": "Lateri stretch",
+    "type": "sand_mining",
+    "areaSqm": 2317,
+    "confidence": 65,
+    "beforeDate": "2023-12-22",
+    "afterDate": "2024-04-28",
+    "severity": "medium",
+    "status": "under_inspection",
+    "flaggedAs": null,
+    "inProtectedZone": false,
+    "zoneId": null,
+    "zoneName": null,
+    "centroid": [
+     77.823686,
+     23.532837
+    ],
+    "detectedAt": "2024-04-30T00:00:00.000Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.833483,
+       23.527225
+      ],
+      [
+       77.832719,
+       23.5274
+      ],
+      [
+       77.831581,
+       23.527374
+      ],
+      [
+       77.831642,
+       23.527078
+      ],
+      [
+       77.832772,
+       23.527038
+      ],
+      [
+       77.833483,
+       23.527225
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-026",
+    "areaId": "area-betwa",
+    "locationName": "Betwa ghat 4",
+    "type": "sand_mining",
+    "areaSqm": 11322,
+    "confidence": 84,
+    "beforeDate": "2022-12-09",
+    "afterDate": "2023-05-17",
+    "severity": "medium",
+    "status": "resolved",
+    "flaggedAs": null,
+    "inProtectedZone": false,
+    "zoneId": null,
+    "zoneName": null,
+    "centroid": [
+     77.832418,
+     23.527225
+    ],
+    "detectedAt": "2023-05-19T00:00:00.000Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.832414,
+       23.504264
+      ],
+      [
+       77.831708,
+       23.504567
+      ],
+      [
+       77.830434,
+       23.504483
+      ],
+      [
+       77.830406,
+       23.504031
+      ],
+      [
+       77.831767,
+       23.503889
+      ],
+      [
+       77.832414,
+       23.504264
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-027",
+    "areaId": "area-betwa",
+    "locationName": "Sironj bend",
+    "type": "sand_mining",
+    "areaSqm": 14587,
+    "confidence": 96,
+    "beforeDate": "2024-04-28",
+    "afterDate": "2024-11-06",
+    "severity": "medium",
+    "status": "resolved",
+    "flaggedAs": null,
+    "inProtectedZone": false,
+    "zoneId": null,
+    "zoneName": null,
+    "centroid": [
+     77.831346,
+     23.504264
+    ],
+    "detectedAt": "2024-11-08T00:00:00.000Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       77.786476,
+       23.535775
+      ],
+      [
+       77.786005,
+       23.535881
+      ],
+      [
+       77.785277,
+       23.535846
+      ],
+      [
+       77.785255,
+       23.535695
+      ],
+      [
+       77.785952,
+       23.535681
+      ],
+      [
+       77.786476,
+       23.535775
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "id": "det-028",
+    "areaId": "area-betwa",
+    "locationName": "Vidisha sandbar",
+    "type": "sand_mining",
+    "areaSqm": 3042,
+    "confidence": 88,
+    "beforeDate": "2022-04-01",
+    "afterDate": "2022-12-09",
+    "severity": "medium",
+    "status": "new",
+    "flaggedAs": null,
+    "inProtectedZone": false,
+    "zoneId": null,
+    "zoneName": null,
+    "centroid": [
+     77.785808,
+     23.535775
+    ],
+    "detectedAt": "2022-12-11T00:00:00.000Z"
+   }
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+@tailwind base;@tailwind components;@tailwind utilities;
+html,body,#root{height:100%}
+body{background:#0F1214;color:#E6EAED;font-family:Inter,system-ui,sans-serif}
+*{transition-duration:150ms}
+:focus-visible{outline:2px solid #22D3EE;outline-offset:2px}
+.skeleton{background:linear-gradient(90deg,#171B1F,#232A30,#171B1F);background-size:200% 100%;animation:sk 1.2s linear infinite}
+@keyframes sk{to{background-position:-200% 0}}
+.grid-bg{background-image:linear-gradient(#22D3EE14 1px,transparent 1px),linear-gradient(90deg,#22D3EE14 1px,transparent 1px);background-size:48px 48px}

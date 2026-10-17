@@ -1,0 +1,44 @@
+[
+ {
+  "id": "u-admin",
+  "name": "Anita Verma",
+  "email": "admin@landwatch.gov.in",
+  "password": "demo123",
+  "role": "admin"
+ },
+ {
+  "id": "u-off1",
+  "name": "Rohit Sharma",
+  "email": "officer@landwatch.gov.in",
+  "password": "demo123",
+  "role": "officer"
+ },
+ {
+  "id": "u-off2",
+  "name": "Meera Joshi",
+  "email": "officer2@landwatch.gov.in",
+  "password": "demo123",
+  "role": "officer"
+ },
+ {
+  "id": "u-ins1",
+  "name": "Karan Patel",
+  "email": "inspector@landwatch.gov.in",
+  "password": "demo123",
+  "role": "inspector"
+ },
+ {
+  "id": "u-ins2",
+  "name": "Sunita Rawat",
+  "email": "inspector2@landwatch.gov.in",
+  "password": "demo123",
+  "role": "inspector"
+ },
+ {
+  "id": "u-ins3",
+  "name": "Deepak Yadav",
+  "email": "inspector3@landwatch.gov.in",
+  "password": "demo123",
+  "role": "inspector"
+ }
+]
